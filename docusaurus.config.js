@@ -14,12 +14,13 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/AgentGPT-Documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Reworkd', // Usually your GitHub org/user name.
-  projectName: 'AgentGPT', // Usually your repo name.
+  organizationName: 'reworkd', // Usually your GitHub org/user name.
+  projectName: 'AgentGPT-Documentation', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
