@@ -12,12 +12,13 @@ Recursively, an agent will think of the best tasks to perform a goal, execute on
 
 ## Philosophy
 We think the power of AI should be available to everyone and should be driven by community.
-This is why we are proudly open source.
+This is why we are proudly open source. We'd love to hear your feedback at every step of the journey and the following channels are open for you to reach the team:
 
 ### Join the community
 - [AgentGPT website](https://agentgpt.reworkd.ai/)
 - [Github](https://github.com/reworkd/AgentGPT)
 - [Discord](https://discord.gg/jdSBAnmdnY)
+- [Google Survey](https://forms.gle/fjCo72hiYWZydJa1A)
 
 ## What's next?
 The entire AgentGPT team is incredibly excited for the road to follow. 
