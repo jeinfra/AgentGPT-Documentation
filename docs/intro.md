@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 🤖 Introduction
+Welcome to AgentGPT 👋, an autonomous AI Agent platform that empowers users to create and deploy customizable autonomous AI agents directly in the web.
+Simply assign a name and goal to your AI agent, and watch as it embarks on an exciting journey to accomplish the assigned objective.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## How does it work?
+AgentGPT works by chaining language models (Agents) to perform a given goal. 
+Recursively, an agent will think of the best tasks to perform a goal, execute on those tasks, evaluate how it performed, and continually think of more tasks.
 
-## Getting Started
+## Philosophy
+We think the power of AI should be available to everyone and should be driven by community.
+This is why we are proudly open source.
 
-Get started by **creating a new site**.
+### Join the community
+- [AgentGPT website](https://agentgpt.reworkd.ai/)
+- [Github](https://github.com/reworkd/AgentGPT)
+- [Discord](https://discord.gg/jdSBAnmdnY)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## What's next?
+The entire AgentGPT team is incredibly excited for the road to follow. 
+We have a ton of exciting features planned for the future, and we hope you'll join us on this journey.
+Have a glimpse of what's to come in the [roadmap](/docs/roadmap) on the next page.
